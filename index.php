@@ -1,4 +1,7 @@
 <?php
+//THISI ISIIS IS ISI SII S
+//SDADDDAADSADAD
+
 include_once 'dbconfig.php';
 
 // delete condition
